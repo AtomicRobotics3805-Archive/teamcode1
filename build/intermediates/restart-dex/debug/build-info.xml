@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="19"
+    density="hdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="109727938985012"
+    token="-2538478332399531503"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="11018" />
+    <task
+        name="instant-run-dex"
+        duration="3758" />
+    <task
+        name="instant-run-transform"
+        duration="317" />
+    <task
+        name="verifier"
+        duration="132" />
+
+    <artifact
+        location="C:\Users\mara\Documents\android ftc\ftc_app-master-2.2\ftc_app-master\TeamCode\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="108164388270374"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\mara\Documents\android ftc\ftc_app-master-2.2\ftc_app-master\TeamCode\build\outputs\apk\TeamCode-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="108729739535438"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\mara\Documents\android ftc\ftc_app-master-2.2\ftc_app-master\TeamCode\build\intermediates\builds\debug\108729739535438\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="108873581267526"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\mara\Documents\android ftc\ftc_app-master-2.2\ftc_app-master\TeamCode\build\intermediates\builds\debug\108873581267526\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="108946126833173"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\mara\Documents\android ftc\ftc_app-master-2.2\ftc_app-master\TeamCode\build\intermediates\builds\debug\108946126833173\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="109139866093082"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\mara\Documents\android ftc\ftc_app-master-2.2\ftc_app-master\TeamCode\build\intermediates\builds\debug\109139866093082\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="109416679076244"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\mara\Documents\android ftc\ftc_app-master-2.2\ftc_app-master\TeamCode\build\intermediates\builds\debug\109416679076244\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="109727938985012"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\mara\Documents\android ftc\ftc_app-master-2.2\ftc_app-master\TeamCode\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
