@@ -1,5 +1,3 @@
-//testing
-
 /*
 Copyright (c) 2016 Robert Atkinson
 
